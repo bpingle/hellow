@@ -6,6 +6,7 @@ pizza
 paneer
 fry checik
 
-
+beans
+pasta
 
 Thank you.
