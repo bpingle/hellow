@@ -6,6 +6,11 @@ pizza
 paneer
 fry checik
 
+beans
+pasta
+
+done changes.
+
 hgello world
 
 Thank you.
